@@ -1,0 +1,3 @@
+[submodule "ImGuiMultiplatform"]
+	path = ImGuiMultiplatform
+	url = git@github.com:JBAMeijer/ImGuiMultiplatform.git
