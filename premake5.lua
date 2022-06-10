@@ -1,6 +1,6 @@
-workspace "UploadTool"
+workspace "BaseAPP"
 	architecture "x86_64"
-	startproject "UploadTool"
+	startproject "BaseAPP"
 
 	configurations 
 	{
@@ -24,8 +24,8 @@ group "Engine"
 group ""
 
 group "APP"
-project "UploadTool"
-	location "UploadTool"
+project "BaseAPP"
+	location "BaseAPP"
 	kind "ConsoleApp"
 	language "C++"
 	cppdialect "C++20"
